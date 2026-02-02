@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database local files
+*.sqlite3
+
+# Секреты (пароли БД и т.д.)
+.env
+
+# PyInstaller
+build/
+dist/
